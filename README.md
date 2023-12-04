@@ -68,7 +68,7 @@ source ~/assignment_ws/devel/setup.sh
 To incorporate this repository into the "src" folder of your recently established Catkin workspace, execute the following command in your terminal:
 
 ```bash
-git clone https://github.com/Melih199/Exp_rob_assignment_1.git
+git clone https://github.com/NatnaelB7/ExRoLa_Assignment_1.git
 ```
 
 ### Make the Package
